@@ -21,7 +21,7 @@
 
 <p>
 
-<align="center" img alt="Globe" height="80" src="images/globe.gif">
+<align="center" img alt="Globe" height="80" src="JTacklin/images/globe.gif">
 </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 
  
-<img src="https://github.com/JTacklin/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="JTacklin/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 
 
 </div>
