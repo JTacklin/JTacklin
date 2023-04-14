@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="JTacklin/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <h2>My name is Justin, and I like Bash</h2>
@@ -21,7 +21,7 @@
 
 <p>
 
-<align="center" img alt="Globe" height="80" src="JTacklin/images/globe.gif">
+<img alt="Globe" height="80" src="images/globe.gif">
 </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 
  
-<img src="JTacklin/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 
 
 </div>
