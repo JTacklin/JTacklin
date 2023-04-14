@@ -6,7 +6,7 @@
   <h2>My name is Justin, and I like Bash</h2>
   <br />
   <br />
-  <img src="images/bash.png" style="max-width: 50%;  alt="Bash logo" />
+  <img src="images/bash.png" style="width: 50%;  alt="Bash logo" />
 </div>
 
 <!-- Social -->
