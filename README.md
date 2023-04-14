@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="JTacklin/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <h2>My name is Justin, and I like Bash</h2>
