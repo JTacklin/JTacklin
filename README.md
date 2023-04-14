@@ -3,10 +3,11 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <h2>My name is Justin, and I like Bash</h2>
+  
+ 
   <br />
   <br />
-  <img src="images/bash.png" style="width: 50%;  alt="Bash logo" />
+  
 </div>
 
 <!-- Social -->
