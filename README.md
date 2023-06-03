@@ -51,3 +51,7 @@
 
 
 </div>
+
+
+
+<iframe allowtransparency frameborder='0' height='454' scrolling='no' src='https://www.strava.com/clubs/329013/latest-rides/c054b8430a5a5a51512fc7ea19448996ccf0c0b7?show_rides=true' width='300'></iframe>
